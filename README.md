@@ -5,3 +5,4 @@ The goal of this project is to utuilze Kickstarter campaign data to help assist 
 
 ## Analsyis and Chanllenges: 
 The first part of the anaylysis to help Louise was to figure out if different Kickstarter campaigns for plays did better or worse based on the date that they were launched. To accomplish this I created a Pivot Table from the available Kickstarter campaign data to sort it based on how successful theater campaign outcpmes were based on what date during the year they were launched. The pivot table is located in this [Kickstarter_Challenge](path/to/Kickstarter_Challenge.xlxs) and is under the worksheet titled "Theater Outcomes by Launch Date."
+
