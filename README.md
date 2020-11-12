@@ -1,2 +1,2 @@
-# kickstarter-analysis
-Performing an analysis of Kickstarter to help Louise
+# An Analysis of Kickstarter Campaigns
+Performing an analysis of previous Kickstarter campaigns to help Louise fund her play. 
